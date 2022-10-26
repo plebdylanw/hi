@@ -2,5 +2,7 @@
 Hello github
 
 My links
-Keybase: [https://keybase.io/dylanw/](https://keybase.io/dylanw/)
-Twitter: [https://twitter.com/PlebDylanW](https://twitter.com/PlebDylanW)
+<ol>
+  <li>Keybase ([https://keybase.io/dylanw/](https://keybase.io/dylanw/))</li>
+  <li>Twitter ([https://twitter.com/PlebDylanW](https://twitter.com/PlebDylanW))</li>
+</ol> 
