@@ -1,6 +1,6 @@
 # hi
 Hello github
 
-[https://keybase.io/dylanw/](https://keybase.io/dylanw/)
-
-[https://twitter.com/PlebDylanW](https://twitter.com/PlebDylanW)
+My links
+Keybase: [https://keybase.io/dylanw/](https://keybase.io/dylanw/)
+Twitter: [https://twitter.com/PlebDylanW](https://twitter.com/PlebDylanW)
